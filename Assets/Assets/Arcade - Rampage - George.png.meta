@@ -1,0 +1,1818 @@
+fileFormatVersion: 2
+guid: 18eed21a4a8827f45acb6e36db0ab800
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Arcade - Rampage - George_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1940
+        width: 268
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3524991f1c056e549943e48c1e3d1c7c
+      internalID: 550987866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - George_1
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1838
+        width: 64
+        height: 88
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb8839473bd18f34584c5223b856e4d3
+      internalID: 364918581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - George_2
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 1834
+        width: 64
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f8d297b43fc2f34cb4c9b85f81a57e5
+      internalID: -2072877465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - George_3
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 1834
+        width: 42
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a90b79ebc4f1fa4ea3d6a826b9e94c9
+      internalID: 1221169455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - George_4
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 1834
+        width: 51
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec719222b9efae740b32e4f4c8776cbd
+      internalID: 419897321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - George_5
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 1834
+        width: 51
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 460fd98f7c9c060458a030fb5bafd440
+      internalID: -2026833473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - George_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1734
+        width: 66
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8291cea6bcc77fd43a27810193ffefc2
+      internalID: -1609229875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - George_7
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 1724
+        width: 50
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45698c7c9b09668499df4f25bf598b81
+      internalID: 807206715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - George_8
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 1724
+        width: 42
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1927697608e7256458f68b30774bb612
+      internalID: -1838868741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - George_9
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 1726
+        width: 51
+        height: 93
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbff9a1a5672f234aa3032557917ed65
+      internalID: -1970215623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - George_10
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 1725
+        width: 63
+        height: 94
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4336392c26bd17418219c79b9f218ec
+      internalID: -2040514079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - George_11
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 1588
+        width: 46
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f07e33df100d3b4f988cf467877c717
+      internalID: -786201128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - George_12
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 1602
+        width: 70
+        height: 101
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 681d7dc14cdbdd044aa4bc1cc8808558
+      internalID: -1848057758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - George_13
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 1604
+        width: 54
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb933d06c07bd1743af8343cfd286f9a
+      internalID: 731082578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - George_14
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 1604
+        width: 46
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a62344d104e39449a122b6711979fef
+      internalID: -1917758001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - George_15
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 1484
+        width: 42
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea0f6efba2fb6344ca4202cf078ee815
+      internalID: -2350960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - George_16
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 1484
+        width: 42
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 981163584f54dcb4f8eaba9b3be66916
+      internalID: 233606441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - George_17
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 1484
+        width: 47
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b854b795f4181c46877e9362059f94f
+      internalID: -314132711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - George_18
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 1484
+        width: 47
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 317252e209bd43249986a47c67d31d11
+      internalID: 1225744716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - George_19
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 1374
+        width: 50
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6d9255ecf5128b4d9c71d4c0e259acb
+      internalID: 1393567746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - George_20
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 1374
+        width: 50
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a69607475b730f41bc3df185f33d96f
+      internalID: 2016222874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - George_21
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 1375
+        width: 51
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 209ca4d9c96232040a190c5ca17ddc98
+      internalID: -20395636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - George_22
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 1372
+        width: 65
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1179fabb1f4c096428c40eeaf5832847
+      internalID: 637880185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - George_23
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 1255
+        width: 49
+        height: 94
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5be37c9f95c05b4409dd3a014a24e9d5
+      internalID: 1048217308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - George_24
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 1239
+        width: 46
+        height: 127
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99268c0dc0e303c4cb834236a648766a
+      internalID: -1510748641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - George_25
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 1256
+        width: 56
+        height: 92
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 529f6dccdf42eae47a64f4424a159b51
+      internalID: 132465899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - George_26
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 1255
+        width: 49
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9af573527173df46916fccebb24a89b
+      internalID: 1823953918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - George_27
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 1135
+        width: 48
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd2839892afe9d941bf203ce303be70c
+      internalID: -1796485601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - George_28
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 1135
+        width: 89
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0e8881012f19d04eb61f2fd6e5ac7ab
+      internalID: -779108552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - George_29
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 1136
+        width: 59
+        height: 93
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fad04b07e565b1d4e9bc4a7a5a34abf4
+      internalID: 899415678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - George_30
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 1135
+        width: 57
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 990a0148a94386f449ca22bb4bf8a6e6
+      internalID: 1956304815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - George_31
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 1025
+        width: 47
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 358e70da507de7344bf8bea5f324fa45
+      internalID: 1834052761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - George_32
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 1025
+        width: 46
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c73f0492f4a52047a899cdef293c346
+      internalID: -220590875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - George_33
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 1024
+        width: 64
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efc4808ce38d93348a31c22df9727514
+      internalID: 2048608143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - George_34
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 1024
+        width: 66
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 014e87dd11f69fe4bb44e9310ebc549f
+      internalID: 370118814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - George_35
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 914
+        width: 64
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d854fb36c111713419f75f9a9e9daa0f
+      internalID: 1398885193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - George_36
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 914
+        width: 66
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 310f2d8d9991bf948a250b54755d28db
+      internalID: 1240052977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - George_37
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 914
+        width: 65
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fbe8f24ae42a1340b72f152c9e8dce4
+      internalID: 636205998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - George_38
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 914
+        width: 67
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c203bf7e77836347a4545c4361acba1
+      internalID: -1348501849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - George_39
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 805
+        width: 66
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7d75f9fefe76504f8cfdc2597c90dc2
+      internalID: 978076494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - George_40
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 805
+        width: 66
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 252743af41cab7441859e7c604ad1a40
+      internalID: 1931140283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - George_41
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 811
+        width: 42
+        height: 83
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be9da4a541629e54ea74ef247e1d974b
+      internalID: 1424581050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - George_42
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 811
+        width: 42
+        height: 83
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd690fcef00bd014e98a9299f76f4c27
+      internalID: -668534155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - George_43
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 700
+        width: 45
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79abd80a00bcefb46b659ffeb373f23e
+      internalID: 1841926910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - George_44
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 701
+        width: 45
+        height: 83
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f68a7ba548b71c48a36883f4c1fe51d
+      internalID: -145132223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - George_45
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 685
+        width: 42
+        height: 115
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02f1f25085a6eba41b15f75452073dce
+      internalID: -1976243536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - George_46
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 701
+        width: 52
+        height: 82
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb08586d1fa6f1a44ae4031e3e23bb05
+      internalID: -1120556230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - George_47
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 592
+        width: 52
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0082938c2b504e4f8e160ad29eda4bc
+      internalID: -1073169734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - George_48
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 585
+        width: 48
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf69e6c50a793ba4d8b6f759a35d5923
+      internalID: -1724214393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - George_49
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 588
+        width: 64
+        height: 88
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeec970709f8d79419fe5dc33ec37086
+      internalID: 1950554032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - George_50
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 591
+        width: 85
+        height: 83
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1b24b94fa89ff24ab83933076ed7fa4
+      internalID: -1076314492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - George_51
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 491
+        width: 42
+        height: 83
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb52d269f877b28478e28dc8a6945fff
+      internalID: 1984799104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - George_52
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 490
+        width: 42
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db144d9885923ed4aad874d5ad4f4989
+      internalID: -1200807583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - George_53
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 491
+        width: 42
+        height: 83
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3921497d4b276474d895651f730daafa
+      internalID: 453368661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - George_54
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 490
+        width: 42
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87535e2d5ee768640830d1374187bad2
+      internalID: -1521526127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - George_55
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 391
+        width: 66
+        height: 83
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f2867fece13f374f8153b0db1cf4914
+      internalID: 1043555744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - George_56
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 390
+        width: 66
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6434edfba242aa84f8da33c3d48253fb
+      internalID: 1246367698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - George_57
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 391
+        width: 66
+        height: 83
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f970fdc311acb44a88be63cfcfec134
+      internalID: -979373810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - George_58
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 390
+        width: 66
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 221c42fcb01c2a540876d9268b65b274
+      internalID: -1015484447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - George_59
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 284
+        width: 50
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9a0deaa9677af441b9cc9dcb059cb37
+      internalID: 1830764646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - George_60
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 284
+        width: 51
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48ea49d040aee5c4e8dff1155abc6a04
+      internalID: 1359220675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - George_61
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 284
+        width: 49
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18abecf9023db194fb0bbe596813988b
+      internalID: -1218516616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - George_62
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 290
+        width: 45
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d6c3fcd7beb59742b9b77a41aa12140
+      internalID: 1193861799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - George_63
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 186
+        width: 45
+        height: 83
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dcd326741052cb40834ced29e71d2f1
+      internalID: 1124994532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - George_64
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 180
+        width: 46
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfe559f90732a44419f436a8b799cff5
+      internalID: -1361921918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - George_65
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 179
+        width: 50
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01c1ea244c3c71b4f8ccdbe7042c8114
+      internalID: -1184655409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - George_66
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 179
+        width: 51
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2c535e5b67e86c4ebb93ee9751886b0
+      internalID: 1406575750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - George_67
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 74
+        width: 50
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 230353154a65ffe41bd02476552bad8b
+      internalID: -1110976658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - George_68
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 80
+        width: 45
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3ed5cbdbf7b52d41bf5f70b86bd5c36
+      internalID: -1528573184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - George_69
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 81
+        width: 45
+        height: 83
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e74c0bd5692b1874a8e0a19fa7698b10
+      internalID: -2036332280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - George_70
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 75
+        width: 46
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1b45defae3334343a66ab4519e35737
+      internalID: -1849714337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - George_71
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 2
+        width: 64
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1773da646dbc4ed4ba9db0701f35df65
+      internalID: -1056224251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - George_72
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 0
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5083b3484a6ceff4c8a5444defb3f482
+      internalID: 1753939767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - George_73
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 8
+        width: 48
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 353e4040af553754e950faeb46c78019
+      internalID: 260517743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - George_74
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 20
+        width: 25
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 069c6e3a6892dde49ad9455c6225a49a
+      internalID: -219510147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - George_75
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 17
+        width: 16
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2effc4c1bfa8584c8c9ffec488f0f00
+      internalID: 1205227835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - George_76
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 17
+        width: 22
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d07054fbb2810c419215b096696c5cb
+      internalID: -867211242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Arcade - Rampage - George_0: 550987866
+      Arcade - Rampage - George_7: 807206715
+      Arcade - Rampage - George_19: 1393567746
+      Arcade - Rampage - George_57: -979373810
+      Arcade - Rampage - George_40: 1931140283
+      Arcade - Rampage - George_68: -1528573184
+      Arcade - Rampage - George_13: 731082578
+      Arcade - Rampage - George_32: -220590875
+      Arcade - Rampage - George_4: 419897321
+      Arcade - Rampage - George_37: 636205998
+      Arcade - Rampage - George_10: -2040514079
+      Arcade - Rampage - George_47: -1073169734
+      Arcade - Rampage - George_38: -1348501849
+      Arcade - Rampage - George_59: 1830764646
+      Arcade - Rampage - George_49: 1950554032
+      Arcade - Rampage - George_45: -1976243536
+      Arcade - Rampage - George_54: -1521526127
+      Arcade - Rampage - George_14: -1917758001
+      Arcade - Rampage - George_9: -1970215623
+      Arcade - Rampage - George_20: 2016222874
+      Arcade - Rampage - George_61: -1218516616
+      Arcade - Rampage - George_27: -1796485601
+      Arcade - Rampage - George_11: -786201128
+      Arcade - Rampage - George_42: -668534155
+      Arcade - Rampage - George_23: 1048217308
+      Arcade - Rampage - George_58: -1015484447
+      Arcade - Rampage - George_73: 260517743
+      Arcade - Rampage - George_25: 132465899
+      Arcade - Rampage - George_50: -1076314492
+      Arcade - Rampage - George_67: -1110976658
+      Arcade - Rampage - George_8: -1838868741
+      Arcade - Rampage - George_16: 233606441
+      Arcade - Rampage - George_15: -2350960
+      Arcade - Rampage - George_76: -867211242
+      Arcade - Rampage - George_26: 1823953918
+      Arcade - Rampage - George_55: 1043555744
+      Arcade - Rampage - George_66: 1406575750
+      Arcade - Rampage - George_65: -1184655409
+      Arcade - Rampage - George_72: 1753939767
+      Arcade - Rampage - George_70: -1849714337
+      Arcade - Rampage - George_36: 1240052977
+      Arcade - Rampage - George_24: -1510748641
+      Arcade - Rampage - George_56: 1246367698
+      Arcade - Rampage - George_52: -1200807583
+      Arcade - Rampage - George_30: 1956304815
+      Arcade - Rampage - George_22: 637880185
+      Arcade - Rampage - George_1: 364918581
+      Arcade - Rampage - George_3: 1221169455
+      Arcade - Rampage - George_63: 1124994532
+      Arcade - Rampage - George_41: 1424581050
+      Arcade - Rampage - George_71: -1056224251
+      Arcade - Rampage - George_33: 2048608143
+      Arcade - Rampage - George_35: 1398885193
+      Arcade - Rampage - George_17: -314132711
+      Arcade - Rampage - George_39: 978076494
+      Arcade - Rampage - George_6: -1609229875
+      Arcade - Rampage - George_53: 453368661
+      Arcade - Rampage - George_18: 1225744716
+      Arcade - Rampage - George_2: -2072877465
+      Arcade - Rampage - George_74: -219510147
+      Arcade - Rampage - George_51: 1984799104
+      Arcade - Rampage - George_46: -1120556230
+      Arcade - Rampage - George_75: 1205227835
+      Arcade - Rampage - George_5: -2026833473
+      Arcade - Rampage - George_28: -779108552
+      Arcade - Rampage - George_34: 370118814
+      Arcade - Rampage - George_60: 1359220675
+      Arcade - Rampage - George_29: 899415678
+      Arcade - Rampage - George_31: 1834052761
+      Arcade - Rampage - George_43: 1841926910
+      Arcade - Rampage - George_48: -1724214393
+      Arcade - Rampage - George_64: -1361921918
+      Arcade - Rampage - George_44: -145132223
+      Arcade - Rampage - George_62: 1193861799
+      Arcade - Rampage - George_21: -20395636
+      Arcade - Rampage - George_69: -2036332280
+      Arcade - Rampage - George_12: -1848057758
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

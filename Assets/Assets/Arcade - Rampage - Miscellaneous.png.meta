@@ -1,0 +1,4810 @@
+fileFormatVersion: 2
+guid: 4debc364485e9614582ec68fd7d2872c
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Arcade - Rampage - Miscellaneous_0
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 676
+        width: 30
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb8be96b20a36d94f8730014461bfd6b
+      internalID: -1008270418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - Miscellaneous_1
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 676
+        width: 30
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b1970f3ff636804aba016c481386097
+      internalID: -548796002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - Miscellaneous_2
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 679
+        width: 10
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c343d33ac84a5742b9239ebaf8e0ce6
+      internalID: 1805382772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - Miscellaneous_3
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 676
+        width: 64
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eacd9df9d0bcaa44a01ef48b3bd69ff
+      internalID: 133889405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - Miscellaneous_4
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 676
+        width: 60
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4be0fb4120ade9f468437f9e4b1aed88
+      internalID: -583589892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - Miscellaneous_5
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 691
+        width: 15
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb6070d45ff084841b43fdd1e75e8f4c
+      internalID: -432908934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - Miscellaneous_6
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 700
+        width: 21
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49fd2f587b190c643bfadeedbd0302ef
+      internalID: 1228635535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - Miscellaneous_7
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 694
+        width: 11
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0e568453f788014a83d9f2840496a88
+      internalID: 1458659211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - Miscellaneous_8
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 684
+        width: 18
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e953cad661a6ce4089a83a6e3e3edc6
+      internalID: 232855317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - Miscellaneous_9
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 699
+        width: 9
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e676358bcb84b1a458e7be43bbf163b1
+      internalID: 643823936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - Miscellaneous_10
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 696
+        width: 4
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e2ac6d67ffffe94da4e9730939a380b
+      internalID: -1858409971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - Miscellaneous_11
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 694
+        width: 10
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e732159e391eee4a8bf482dc151d50b
+      internalID: 1636439310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - Miscellaneous_12
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 696
+        width: 4
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33def217af4a69047b0fe9d616c0c57f
+      internalID: 1182769991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - Miscellaneous_13
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 688
+        width: 10
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 106dc99614036094dab9569f0e2e978d
+      internalID: 1065487197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - Miscellaneous_14
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 688
+        width: 10
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73e469ecd7684f64fb293afa900eac19
+      internalID: 1265710980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - Miscellaneous_15
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 678
+        width: 10
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aec3fe0cd50e8df4f9e04a1b6bcc03cd
+      internalID: -1437991414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - Miscellaneous_16
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 682
+        width: 5
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc0df5473248dc34e8d84d3f2f0c5da2
+      internalID: 113035940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - Miscellaneous_17
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 676
+        width: 12
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72b52269f1463d740a0b4be6527ec351
+      internalID: 1317542401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - Miscellaneous_18
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 684
+        width: 15
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93244e555b0c2c34ebd7d7406ae95b7e
+      internalID: 672078576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - Miscellaneous_19
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 683
+        width: 4
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08b8d16d6e6645e4ebe7fa0748c26d22
+      internalID: -1221033260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - Miscellaneous_20
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 676
+        width: 8
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 299457de7441a8245961217da61be53a
+      internalID: 34468294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - Miscellaneous_21
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 677
+        width: 9
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac5f51e77e0a1d7468eae1821db00cae
+      internalID: 1676937578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - Miscellaneous_22
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 676
+        width: 12
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46ab2686777384643bc9013ae4e702a8
+      internalID: 1586529770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - Miscellaneous_23
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 643
+        width: 21
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 993b0a9293cc02144aa5574171cd7be7
+      internalID: -63296033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - Miscellaneous_24
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 643
+        width: 23
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d0b531d8e353a545a7bd27bf2f82050
+      internalID: 813575786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - Miscellaneous_25
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 641
+        width: 20
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41c0adf24b3d5124e9b512fd5818e6e8
+      internalID: 12963859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - Miscellaneous_26
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 641
+        width: 19
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e89e387ca54cbc04b894d601d08e05b1
+      internalID: -912493562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - Miscellaneous_27
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 650
+        width: 4
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4946919b97781db408982f9de09b0e06
+      internalID: 1104720523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - Miscellaneous_28
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 647
+        width: 9
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ea286ddd1812634282d552dd5a22124
+      internalID: -1605876138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - Miscellaneous_29
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 642
+        width: 16
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63697a7029cb3c04dbd47c1d48c34b86
+      internalID: -262663031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - Miscellaneous_30
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 600
+        width: 32
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc01244ba2c931d47a7c1f4ff9c5763b
+      internalID: 758803477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - Miscellaneous_31
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 636
+        width: 26
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ee29c9cc42d11149bbc97697066df5d
+      internalID: 1450390091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - Miscellaneous_32
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 637
+        width: 24
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d54c71e34c23ca643910c7001b61659c
+      internalID: -317603085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - Miscellaneous_33
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 636
+        width: 23
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f85cfe5b2325fd842ae247a1036acfaa
+      internalID: -1859697373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - Miscellaneous_34
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 600
+        width: 20
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a10887a07d17c94ba2d86b0c242e26b
+      internalID: -1251478842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - Miscellaneous_35
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 602
+        width: 22
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 316560ff1540b84449d18e23e6cf2bf4
+      internalID: 1311691100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - Miscellaneous_36
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 598
+        width: 12
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bec153a15eaec14296575832a8ce61f
+      internalID: 1365247769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - Miscellaneous_37
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 603
+        width: 14
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ed6f01dbb35c43489ce49f2dc8931eb
+      internalID: 777991992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - Miscellaneous_38
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 608
+        width: 9
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3cc04b3472f5524e97eafc47f489503
+      internalID: 85579612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - Miscellaneous_39
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 603
+        width: 18
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f879977ff7af35d42be18cf0c75b7bea
+      internalID: -454426022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - Miscellaneous_40
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 597
+        width: 30
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23a0dc07e546f4a4c8d68a9aa0110750
+      internalID: 1836175522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - Miscellaneous_41
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 597
+        width: 24
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a033894040ae0744781db36d1c1afb9e
+      internalID: -1327201548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - Miscellaneous_42
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 596
+        width: 23
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c969ef20a33f1c94b8b39fe6c678e0b5
+      internalID: -1051739971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - Miscellaneous_43
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 602
+        width: 14
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11078aecd836e2b4a83f28bfaed84216
+      internalID: 1748431288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - Miscellaneous_44
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 568
+        width: 16
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edff38379cd74504eb9530faa41e9a19
+      internalID: -1064174957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - Miscellaneous_45
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 557
+        width: 47
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62646226b515e80409b58090971025b9
+      internalID: 740917332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - Miscellaneous_46
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 557
+        width: 48
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b76cf64e231efcb4b8d3903b417a61fb
+      internalID: 1234804142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - Miscellaneous_47
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 570
+        width: 13
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7676cd72391cb740a87d7e8ab20e2ec
+      internalID: -1058571469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - Miscellaneous_48
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 556
+        width: 40
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13fc7d2ad7d96fd4486aa84d37bcace6
+      internalID: 1754197575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - Miscellaneous_49
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 556
+        width: 48
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dccdb7004d63c743a1aace576814517
+      internalID: -1543501910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - Miscellaneous_50
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 558
+        width: 10
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f4df48f3b18ff049a7b4dce55ac924b
+      internalID: -1477638580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - Miscellaneous_51
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 557
+        width: 60
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3e6768080bf4944bbae66d8f63d1886
+      internalID: 776242971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - Miscellaneous_52
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 556
+        width: 62
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c0cf5e68c7f8714caa55bbe3a7a8473
+      internalID: -1938803815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - Miscellaneous_53
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 517
+        width: 32
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30a16d751bd9f7345b6165dd43c9c4cd
+      internalID: 1922095131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - Miscellaneous_54
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 517
+        width: 32
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86dc477e9dcc6d748bf91e9cb2cb0af3
+      internalID: 1481041290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - Miscellaneous_55
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 517
+        width: 32
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9001eb3c5d6312e40a3d20e5e0ca89a1
+      internalID: -1819018482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - Miscellaneous_56
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 531
+        width: 7
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 083ea066c759d1047a9b0c5fea283d95
+      internalID: -928431551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - Miscellaneous_57
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 517
+        width: 48
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20fb2d19095f4404f905e9407fe545e2
+      internalID: 1261740686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - Miscellaneous_58
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 517
+        width: 52
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a96d0873eefa422458d41701340994b6
+      internalID: 178223414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - Miscellaneous_59
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 535
+        width: 20
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1d07675012f1ca4fba3cdae092d1aa3
+      internalID: -1872698766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - Miscellaneous_60
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 516
+        width: 15
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16c5d93025291234d8949bb7b2eec781
+      internalID: -1966123507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - Miscellaneous_61
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 517
+        width: 18
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c175ca71a3625454b8d6fcd143a5f1b5
+      internalID: -1144563611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - Miscellaneous_62
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 534
+        width: 11
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 471d6f83a9bd3ee47aa04583e7e0553e
+      internalID: -1075368653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - Miscellaneous_63
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 516
+        width: 62
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e50dce2ce4840764b935303754cd0981
+      internalID: 994888210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - Miscellaneous_64
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 517
+        width: 15
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b897d06acd75d7643894eabf16c7723f
+      internalID: -1421344059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - Miscellaneous_65
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 476
+        width: 64
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ce7a3b7d48de1e4ca6fe45850e9aef7
+      internalID: -1789972432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - Miscellaneous_66
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 476
+        width: 60
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a22c53ea06cec9542add36b2abdf6777
+      internalID: 277397794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - Miscellaneous_67
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 491
+        width: 15
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4db96fed4b674445a85d5687e37dfba
+      internalID: -393774640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - Miscellaneous_68
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 500
+        width: 21
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4db137b838e9bd4faa025cfcc11f7f9
+      internalID: 49757493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - Miscellaneous_69
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 486
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d357c0fc37ccbed41b5edc859a1886fe
+      internalID: 977495326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - Miscellaneous_70
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 499
+        width: 14
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20de57c41bdbb3241b9dcbf1d0183c4a
+      internalID: -307672821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - Miscellaneous_71
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 486
+        width: 13
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53ecb8dc12715e9408852da5b6927b5b
+      internalID: -459326853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - Miscellaneous_72
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 500
+        width: 21
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f0286188cba93f448c7fdb7d63305c3
+      internalID: 1863468009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - Miscellaneous_73
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 491
+        width: 15
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d6f00a39e106544990b97d56e7f8397
+      internalID: 986108587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - Miscellaneous_74
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 476
+        width: 62
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a925f1534a7d1e94a9e8301a0db1c799
+      internalID: 1925316036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - Miscellaneous_75
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 478
+        width: 10
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a3799d1c7ba8bc448f64ad45f798a3d
+      internalID: -1463241629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - Miscellaneous_76
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 478
+        width: 10
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81232823ce9f17c4a8a482090ef57cba
+      internalID: 1003301654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - Miscellaneous_77
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 489
+        width: 10
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 997d0b0ad0c7d414e869ae7e49091c2b
+      internalID: 19536762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - Miscellaneous_78
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 483
+        width: 4
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d48684d970aa7ca4c91780e751c5d02f
+      internalID: -1094152809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - Miscellaneous_79
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 482
+        width: 4
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcefdf4960763ad4ab9eb87a4818cb55
+      internalID: 1601300545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - Miscellaneous_80
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 476
+        width: 13
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bd13237b6832f04ca927c83503eb36e
+      internalID: -889940762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - Miscellaneous_81
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 476
+        width: 8
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8908cf1fc11609740ae20880218dbc6f
+      internalID: -342783882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - Miscellaneous_82
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 482
+        width: 4
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c11140d02401db643948bb632a2fffa0
+      internalID: -560266717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - Miscellaneous_83
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 483
+        width: 4
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9b811b4d1730d74a9a1061267929851
+      internalID: 886177738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - Miscellaneous_84
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 440
+        width: 17
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b68e106c6c458734cb233920156e397a
+      internalID: -1799275580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - Miscellaneous_85
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 439
+        width: 19
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef4455ea4c672d54a8db8ec2c234c052
+      internalID: -390335652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - Miscellaneous_86
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 436
+        width: 23
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a734b580c7fb30746904b88c328b315d
+      internalID: -588871741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - Miscellaneous_87
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 436
+        width: 15
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d91907aa45a3b54e92b1516bb4e26db
+      internalID: -617871821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - Miscellaneous_88
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 436
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 117d43944b72c264985cc848d850b56b
+      internalID: -429947231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - Miscellaneous_89
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 442
+        width: 26
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 070252a57321c7c4db3b678fad3ad5d3
+      internalID: 518335604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - Miscellaneous_90
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 442
+        width: 30
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a97f59cbdcfdbc4ca5b6b0c58321d53
+      internalID: -150922116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - Miscellaneous_91
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 436
+        width: 26
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60601e974c8ca6242b787d85295f0fd6
+      internalID: 853988194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - Miscellaneous_92
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 436
+        width: 14
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6881a60e2cedadf4c88302e39652ca6e
+      internalID: -1358078279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - Miscellaneous_93
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 437
+        width: 24
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7110f62a8b4b95f41931d447b2173ff0
+      internalID: 321048453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - Miscellaneous_94
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 436
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5713c092fea217e488fac10dea7715b6
+      internalID: 1469940120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - Miscellaneous_95
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 401
+        width: 29
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4366d4a391acec74f94be945254c4461
+      internalID: 1157950620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - Miscellaneous_96
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 397
+        width: 16
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a37d44970e8ef8b4daabe5ae333e835f
+      internalID: -2101668824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - Miscellaneous_97
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 396
+        width: 30
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 030d2655d2dd46c44a47ac2933fa401f
+      internalID: -194860726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - Miscellaneous_98
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 397
+        width: 28
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a2403bbaaabab24c82faa59fc635743
+      internalID: -1899993348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - Miscellaneous_99
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 396
+        width: 18
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ee9bdafe7c00f745bf48cc1ccef5a21
+      internalID: -621700645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - Miscellaneous_100
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 397
+        width: 17
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 032e26f6009af7546abb1a57572af76f
+      internalID: -1893013141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - Miscellaneous_101
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 404
+        width: 32
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aae79acc13c26b43a5f9d27f1ee93f8
+      internalID: 160974454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - Miscellaneous_102
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 392
+        width: 17
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03374e8390e1d5e4daea28221b2e56b0
+      internalID: -1665028391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - Miscellaneous_103
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 406
+        width: 25
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8463f54f89b7dd54f8d8e95426b8e7d2
+      internalID: -189700335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - Miscellaneous_104
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 397
+        width: 28
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2c65f76b821d2a49b0422b8e97ef9d3
+      internalID: -847243692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - Miscellaneous_105
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 399
+        width: 17
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3602507c0f076ab469dce2cbdaa8b461
+      internalID: 1592149588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - Miscellaneous_106
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 396
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a01cdc7e19fe1024aa28036733d1c305
+      internalID: -70317686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - Miscellaneous_107
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 361
+        width: 20
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 581a5a254d408704b8ceff44995e8158
+      internalID: 347294027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - Miscellaneous_108
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 361
+        width: 22
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 631cdaf6e18b59745818532df64a7d82
+      internalID: 114743438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - Miscellaneous_109
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 360
+        width: 51
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1bfb610695117d41b7b8a66212e03d1
+      internalID: 235456422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - Miscellaneous_110
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 356
+        width: 51
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be582102fdf854b4ead6807550702919
+      internalID: 510299075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - Miscellaneous_111
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 361
+        width: 20
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29eed529007b93c46bbe629a9fa2a401
+      internalID: -1043624387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - Miscellaneous_112
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 364
+        width: 4
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32b771c4370acd6418d1255762f0be6e
+      internalID: -1393341881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - Miscellaneous_113
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 364
+        width: 7
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90690a17f83fbc8408428d8d11d94aee
+      internalID: -192418789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - Miscellaneous_114
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 364
+        width: 21
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dafea3c7a3839474cabd66cf9e8c3064
+      internalID: 776543190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - Miscellaneous_115
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 364
+        width: 16
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04346c2b96007864898f178b19e41eb9
+      internalID: -1800505416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - Miscellaneous_116
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 366
+        width: 19
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 913aa275feeb4d34aa5fc0136ac8fb8a
+      internalID: -1925875890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - Miscellaneous_117
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 356
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 513585536848a5a42b87e415468085d7
+      internalID: -553162591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - Miscellaneous_118
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 321
+        width: 12
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59b48a242ef2daf4f90d23777b0ca287
+      internalID: -1629800417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - Miscellaneous_119
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 326
+        width: 17
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad6581a9eb56d7a42a5e8524d39a59c5
+      internalID: -1298301509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - Miscellaneous_120
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 336
+        width: 6
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3408fd604ce47f45904baaa5ff852bd
+      internalID: -1493971866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - Miscellaneous_121
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 335
+        width: 4
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48b1b88e825ac304ab47c3ad4e1984dd
+      internalID: -1149358662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - Miscellaneous_122
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 324
+        width: 15
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df23813eae62e7f4fa14fc0955edef60
+      internalID: 1671114893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - Miscellaneous_123
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 321
+        width: 15
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddb86840338d1ab4688cc967f3630e06
+      internalID: -91098741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - Miscellaneous_124
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 322
+        width: 17
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe163655e0cbe6e46b15e4f70f778a71
+      internalID: -1597369725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - Miscellaneous_125
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 323
+        width: 9
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 090678572980a6f4fa5cbe4a808f893e
+      internalID: 2006435705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - Miscellaneous_126
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 320
+        width: 17
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ef3558e9793cb24dad82a93065a6d90
+      internalID: -614192018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - Miscellaneous_127
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 321
+        width: 22
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f0e8f7383c7eec499f1b000e84e0ceb
+      internalID: 754623545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - Miscellaneous_128
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 316
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f27dd2bea7ad8f46b7610c712b94526
+      internalID: -1853174838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - Miscellaneous_129
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 324
+        width: 15
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4137198ab2a6ea24d9c08ec7fe175bb7
+      internalID: 1673226889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - Miscellaneous_130
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 323
+        width: 15
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c6fb8dc01874a046b256076e3af8557
+      internalID: -192135858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - Miscellaneous_131
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 282
+        width: 15
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 229e5308fcff67642961551d5150b214
+      internalID: 2055488530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - Miscellaneous_132
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 282
+        width: 15
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1178532d170f4d049b83fbf5f8079c85
+      internalID: 1213568974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - Miscellaneous_133
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 282
+        width: 15
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5482f53798b30d34da94dd1e14512677
+      internalID: -842164416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - Miscellaneous_134
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 281
+        width: 20
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7be4e86123221fe469cc86f606b12ec6
+      internalID: 253230583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - Miscellaneous_135
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 276
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 048990a65c2a3fe418d05f6e98cb5869
+      internalID: -25791671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - Miscellaneous_136
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 280
+        width: 13
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff494e2ff367cad488ad41d7321a8921
+      internalID: -858135705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - Miscellaneous_137
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 277
+        width: 29
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15028d0c9b4983945b1c9664509941bc
+      internalID: -2130704792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - Miscellaneous_138
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 278
+        width: 9
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf0d317e32994354aba1876e7a5a932b
+      internalID: -1407442567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - Miscellaneous_139
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 284
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a14525205d87c974b9075ee6ed9d5cc6
+      internalID: -408497378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - Miscellaneous_140
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 284
+        width: 15
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5da5e82f45b5b247a6329d688aaa505
+      internalID: 168432781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - Miscellaneous_141
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 285
+        width: 14
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec1b303dae1a0bd4399dbabe77ec7573
+      internalID: 919868804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - Miscellaneous_142
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 278
+        width: 31
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c92a631ee83cf04a96bed77527c8f4f
+      internalID: -1702720228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - Miscellaneous_143
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 237
+        width: 60
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cccc68871208ad4fba971528f7a39b0
+      internalID: 169580501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - Miscellaneous_144
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 237
+        width: 60
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eebd4a1c693d4e9408f1afb49e2c8851
+      internalID: 2010073321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - Miscellaneous_145
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 234
+        width: 96
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e9865b9954a6294e88526f51be1fe8b
+      internalID: 1575858223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - Miscellaneous_146
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 235
+        width: 50
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa3c6c87d21c7924aace379b6d23ab7d
+      internalID: -834485382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - Miscellaneous_147
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 253
+        width: 5
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c1bfe7d6f2e73c4a9d674615510dcb2
+      internalID: 981732473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - Miscellaneous_148
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 235
+        width: 42
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29e0fcbc286d43d43bee1bad0ed84591
+      internalID: 1077205087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - Miscellaneous_149
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 238
+        width: 31
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04bd6cfbebd2de04f82bc9aca8beb788
+      internalID: 1364067167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - Miscellaneous_150
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 241
+        width: 6
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51746374d8b524d4fb6b1faac313800b
+      internalID: -433041141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - Miscellaneous_151
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 196
+        width: 58
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f3d196a60234984a93be661f9b5c660
+      internalID: 1759865203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - Miscellaneous_152
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 196
+        width: 59
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f29754e5cd6b6a4b8456822eb6c5d3d
+      internalID: -1579596313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - Miscellaneous_153
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 198
+        width: 64
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e77996e8e3ebc4489b7fc57db342865
+      internalID: -664521203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - Miscellaneous_154
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 216
+        width: 4
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e22fe73c4c3533408bfb7cdf23ef1f4
+      internalID: 28813111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - Miscellaneous_155
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 219
+        width: 6
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db0fe86f72d57b644b2eb4f38847b0a4
+      internalID: 1683124450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - Miscellaneous_156
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 219
+        width: 6
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60dd7eba65b31874e9db7819dff2be22
+      internalID: -1690688621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - Miscellaneous_157
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 216
+        width: 4
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4a1f117a8da2a54fa0f5b134b9840fa
+      internalID: -538155341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - Miscellaneous_158
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 203
+        width: 32
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 900f7b97f3044d04b826c3011ddbda08
+      internalID: 1103714916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - Miscellaneous_159
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 204
+        width: 24
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e1ad744e7d053a4d828ce6520b7b20b
+      internalID: 1117080350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - Miscellaneous_160
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 201
+        width: 64
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f23e7a37d9c1b0e488ddb833507e661e
+      internalID: -1372550381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - Miscellaneous_161
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 208
+        width: 8
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cec827fa7f45b65429e2f8e3ed3fff1e
+      internalID: -608209753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - Miscellaneous_162
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 209
+        width: 5
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dc3101a31ace55499530a8d20094daa
+      internalID: -167353732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - Miscellaneous_163
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 208
+        width: 13
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80d4b2489519536429e69d1f1c581c11
+      internalID: 1969335522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - Miscellaneous_164
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 156
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e318396d7b6e20341b1a96c32d41d5f6
+      internalID: -844822098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - Miscellaneous_165
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 156
+        width: 32
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36e8e92a66b98c541a0023338c4db283
+      internalID: 50872596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - Miscellaneous_166
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 183
+        width: 4
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06da22185ae1569418aacc487d4b0fa5
+      internalID: 468675159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - Miscellaneous_167
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 177
+        width: 6
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f70baacfb1d931a48bfcd5c93ebb602d
+      internalID: -1964081325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - Miscellaneous_168
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 156
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc46f89d2b2dee049a42a3fabaad82c2
+      internalID: -1904037739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - Miscellaneous_169
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 183
+        width: 4
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb5734802b089a340a02e78be49d2830
+      internalID: -1865271014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - Miscellaneous_170
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 161
+        width: 31
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de6e5a50dc80e2c4b9931df2fbd52224
+      internalID: 102859804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - Miscellaneous_171
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 163
+        width: 30
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd41e2c2c7ebfed4eadcc6cbbdb49bf7
+      internalID: 1486575054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - Miscellaneous_172
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 157
+        width: 31
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23fcc9c66e81a0244b01984a61e4e6f0
+      internalID: 1256245054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - Miscellaneous_173
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 175
+        width: 13
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c442b1a4cbb7c5443a86659ff20bf98e
+      internalID: 337237448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - Miscellaneous_174
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 158
+        width: 57
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c43ff27f34d106408799ebdfbc4cc27
+      internalID: -1915408794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - Miscellaneous_175
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 159
+        width: 30
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfb6c3fe1af582d4fae9314538d3c4f4
+      internalID: 1283935944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - Miscellaneous_176
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 160
+        width: 22
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1ae3836e29cb3d47937f8271515651d
+      internalID: 188816103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - Miscellaneous_177
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 163
+        width: 7
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f6501740f238274aaf13a228f8da9b3
+      internalID: 796100483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - Miscellaneous_178
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 157
+        width: 12
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc89ea684e143654ea1a343e4ecf4cd1
+      internalID: -385620631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - Miscellaneous_179
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 166
+        width: 5
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 766a82a6bc9fe604ea3745c8c8f59ded
+      internalID: -873564406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - Miscellaneous_180
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 167
+        width: 9
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a1c5c359ff71034d8314804613b0a21
+      internalID: 1288848866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - Miscellaneous_181
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 165
+        width: 4
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1761350388ca63a46b2aa589005f03d6
+      internalID: 53244123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - Miscellaneous_182
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 162
+        width: 5
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0c9221086860e64e9e154c03c045ded
+      internalID: -1056692933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - Miscellaneous_183
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 157
+        width: 6
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f17b0d80c285cd4582ebecb4bff1974
+      internalID: -876307230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - Miscellaneous_184
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 159
+        width: 6
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2616091b49fd9954595e29281f17854e
+      internalID: -1437945514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - Miscellaneous_185
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 157
+        width: 8
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90b63c172c1a8884f86b4520288a06fe
+      internalID: 256421750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - Miscellaneous_186
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 159
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f8dc397012883b40bb440e5907d8283
+      internalID: 174236164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - Miscellaneous_187
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 156
+        width: 5
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3e1c743c74137346ad0278e54d509d7
+      internalID: 1413813729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - Miscellaneous_188
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 158
+        width: 8
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 624e5db92035c1c42b0a75f712a17447
+      internalID: 782310615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - Miscellaneous_189
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 84
+        width: 94
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3930eba8bc3ef7c4488841b769cb1557
+      internalID: -735446914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - Miscellaneous_190
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 84
+        width: 94
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27cfbbfea45cdc4458f5a83deef79553
+      internalID: -1168698321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - Miscellaneous_191
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 80
+        width: 51
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3844db19e9e50284f90e942cfb84bc44
+      internalID: -1181031283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - Miscellaneous_192
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 80
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d147fd6815cd07148a090e2b857ec38a
+      internalID: -390035720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - Miscellaneous_193
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 126
+        width: 6
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88d69e5b967038847ad58ce08cc40a3b
+      internalID: -552251286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - Miscellaneous_194
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 126
+        width: 6
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a63e79c6e0274a34fa82b6e51f2683dd
+      internalID: 241310150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - Miscellaneous_195
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 126
+        width: 5
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5bb061704fd37c4b8d10e87f38e7cd9
+      internalID: -526987927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - Miscellaneous_196
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 126
+        width: 6
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8010d65abc36653438138bd071e181f1
+      internalID: 1690755683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - Miscellaneous_197
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 126
+        width: 6
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 094dc94b6884a8e45ad302ec65b78c9b
+      internalID: -1634049303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - Miscellaneous_198
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 126
+        width: 6
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e96a9286f742ea745956d70e5443cd12
+      internalID: 741856565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - Miscellaneous_199
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 126
+        width: 6
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7f127c9023a01948929dd47a0165485
+      internalID: -1026264640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - Miscellaneous_200
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 126
+        width: 6
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfe826e2d69449647ab8ad96b5cdb1e4
+      internalID: -1721720615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - Miscellaneous_201
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 86
+        width: 6
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fcef2cd00b36d845b5f9c0812ea6de0
+      internalID: -846445304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - Miscellaneous_202
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 86
+        width: 6
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7a6f29a33dc46a47ad7ef4307b17be3
+      internalID: -1020514417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - Miscellaneous_203
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 86
+        width: 6
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e57b3f2e0f2c3547a43fdadbf6b7f91
+      internalID: 1075162321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - Miscellaneous_204
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 86
+        width: 5
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a24b3dac21b9c5141a5e997a4cf4ab0c
+      internalID: 2137971417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - Miscellaneous_205
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 86
+        width: 6
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc73c6d09aad89b46b5867316f5d34c5
+      internalID: -31772536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - Miscellaneous_206
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 86
+        width: 6
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bca31c98159bc4343badb7a7f77f3bad
+      internalID: 1501737934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - Miscellaneous_207
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 86
+        width: 6
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 419f32a68177f80478070fd38cd78de9
+      internalID: 1020234663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - Miscellaneous_208
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4
+        width: 94
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85ab8faf39df6a7498f9e7f99a7cf1f0
+      internalID: 391355143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - Miscellaneous_209
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 4
+        width: 94
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b49dfb2ef94d6e34abf27510f8abfc0b
+      internalID: 832876461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - Miscellaneous_210
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 0
+        width: 51
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d60ba7995511c84fa136fc8d6c307b7
+      internalID: -717332161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - Miscellaneous_211
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 0
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0963b4bdc817ea643b1d26a0983e6559
+      internalID: 355439898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Rampage - Miscellaneous_212
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 7
+        width: 64
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f6c782a9179cf64c96a4c90b11b6e06
+      internalID: 561939482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Arcade - Rampage - Miscellaneous_179: -873564406
+      Arcade - Rampage - Miscellaneous_148: 1077205087
+      Arcade - Rampage - Miscellaneous_9: 643823936
+      Arcade - Rampage - Miscellaneous_3: 133889405
+      Arcade - Rampage - Miscellaneous_185: 256421750
+      Arcade - Rampage - Miscellaneous_124: -1597369725
+      Arcade - Rampage - Miscellaneous_211: 355439898
+      Arcade - Rampage - Miscellaneous_196: 1690755683
+      Arcade - Rampage - Miscellaneous_123: -91098741
+      Arcade - Rampage - Miscellaneous_127: 754623545
+      Arcade - Rampage - Miscellaneous_138: -1407442567
+      Arcade - Rampage - Miscellaneous_140: 168432781
+      Arcade - Rampage - Miscellaneous_150: -433041141
+      Arcade - Rampage - Miscellaneous_145: 1575858223
+      Arcade - Rampage - Miscellaneous_158: 1103714916
+      Arcade - Rampage - Miscellaneous_119: -1298301509
+      Arcade - Rampage - Miscellaneous_169: -1865271014
+      Arcade - Rampage - Miscellaneous_116: -1925875890
+      Arcade - Rampage - Miscellaneous_99: -621700645
+      Arcade - Rampage - Miscellaneous_20: 34468294
+      Arcade - Rampage - Miscellaneous_41: -1327201548
+      Arcade - Rampage - Miscellaneous_118: -1629800417
+      Arcade - Rampage - Miscellaneous_58: 178223414
+      Arcade - Rampage - Miscellaneous_96: -2101668824
+      Arcade - Rampage - Miscellaneous_167: -1964081325
+      Arcade - Rampage - Miscellaneous_194: 241310150
+      Arcade - Rampage - Miscellaneous_108: 114743438
+      Arcade - Rampage - Miscellaneous_147: 981732473
+      Arcade - Rampage - Miscellaneous_105: 1592149588
+      Arcade - Rampage - Miscellaneous_151: 1759865203
+      Arcade - Rampage - Miscellaneous_201: -846445304
+      Arcade - Rampage - Miscellaneous_77: 19536762
+      Arcade - Rampage - Miscellaneous_94: 1469940120
+      Arcade - Rampage - Miscellaneous_208: 391355143
+      Arcade - Rampage - Miscellaneous_71: -459326853
+      Arcade - Rampage - Miscellaneous_1: -548796002
+      Arcade - Rampage - Miscellaneous_44: -1064174957
+      Arcade - Rampage - Miscellaneous_56: -928431551
+      Arcade - Rampage - Miscellaneous_68: 49757493
+      Arcade - Rampage - Miscellaneous_100: -1893013141
+      Arcade - Rampage - Miscellaneous_209: 832876461
+      Arcade - Rampage - Miscellaneous_159: 1117080350
+      Arcade - Rampage - Miscellaneous_192: -390035720
+      Arcade - Rampage - Miscellaneous_206: 1501737934
+      Arcade - Rampage - Miscellaneous_164: -844822098
+      Arcade - Rampage - Miscellaneous_178: -385620631
+      Arcade - Rampage - Miscellaneous_2: 1805382772
+      Arcade - Rampage - Miscellaneous_129: 1673226889
+      Arcade - Rampage - Miscellaneous_187: 1413813729
+      Arcade - Rampage - Miscellaneous_11: 1636439310
+      Arcade - Rampage - Miscellaneous_88: -429947231
+      Arcade - Rampage - Miscellaneous_6: 1228635535
+      Arcade - Rampage - Miscellaneous_40: 1836175522
+      Arcade - Rampage - Miscellaneous_125: 2006435705
+      Arcade - Rampage - Miscellaneous_190: -1168698321
+      Arcade - Rampage - Miscellaneous_30: 758803477
+      Arcade - Rampage - Miscellaneous_130: -192135858
+      Arcade - Rampage - Miscellaneous_153: -664521203
+      Arcade - Rampage - Miscellaneous_33: -1859697373
+      Arcade - Rampage - Miscellaneous_157: -538155341
+      Arcade - Rampage - Miscellaneous_19: -1221033260
+      Arcade - Rampage - Miscellaneous_10: -1858409971
+      Arcade - Rampage - Miscellaneous_84: -1799275580
+      Arcade - Rampage - Miscellaneous_36: 1365247769
+      Arcade - Rampage - Miscellaneous_133: -842164416
+      Arcade - Rampage - Miscellaneous_63: 994888210
+      Arcade - Rampage - Miscellaneous_5: -432908934
+      Arcade - Rampage - Miscellaneous_103: -189700335
+      Arcade - Rampage - Miscellaneous_155: 1683124450
+      Arcade - Rampage - Miscellaneous_78: -1094152809
+      Arcade - Rampage - Miscellaneous_188: 782310615
+      Arcade - Rampage - Miscellaneous_31: 1450390091
+      Arcade - Rampage - Miscellaneous_23: -63296033
+      Arcade - Rampage - Miscellaneous_112: -1393341881
+      Arcade - Rampage - Miscellaneous_60: -1966123507
+      Arcade - Rampage - Miscellaneous_207: 1020234663
+      Arcade - Rampage - Miscellaneous_181: 53244123
+      Arcade - Rampage - Miscellaneous_91: 853988194
+      Arcade - Rampage - Miscellaneous_184: -1437945514
+      Arcade - Rampage - Miscellaneous_46: 1234804142
+      Arcade - Rampage - Miscellaneous_86: -588871741
+      Arcade - Rampage - Miscellaneous_154: 28813111
+      Arcade - Rampage - Miscellaneous_18: 672078576
+      Arcade - Rampage - Miscellaneous_173: 337237448
+      Arcade - Rampage - Miscellaneous_87: -617871821
+      Arcade - Rampage - Miscellaneous_135: -25791671
+      Arcade - Rampage - Miscellaneous_168: -1904037739
+      Arcade - Rampage - Miscellaneous_182: -1056692933
+      Arcade - Rampage - Miscellaneous_22: 1586529770
+      Arcade - Rampage - Miscellaneous_83: 886177738
+      Arcade - Rampage - Miscellaneous_62: -1075368653
+      Arcade - Rampage - Miscellaneous_152: -1579596313
+      Arcade - Rampage - Miscellaneous_199: -1026264640
+      Arcade - Rampage - Miscellaneous_57: 1261740686
+      Arcade - Rampage - Miscellaneous_205: -31772536
+      Arcade - Rampage - Miscellaneous_0: -1008270418
+      Arcade - Rampage - Miscellaneous_114: 776543190
+      Arcade - Rampage - Miscellaneous_48: 1754197575
+      Arcade - Rampage - Miscellaneous_98: -1899993348
+      Arcade - Rampage - Miscellaneous_180: 1288848866
+      Arcade - Rampage - Miscellaneous_115: -1800505416
+      Arcade - Rampage - Miscellaneous_15: -1437991414
+      Arcade - Rampage - Miscellaneous_149: 1364067167
+      Arcade - Rampage - Miscellaneous_73: 986108587
+      Arcade - Rampage - Miscellaneous_21: 1676937578
+      Arcade - Rampage - Miscellaneous_51: 776242971
+      Arcade - Rampage - Miscellaneous_47: -1058571469
+      Arcade - Rampage - Miscellaneous_191: -1181031283
+      Arcade - Rampage - Miscellaneous_82: -560266717
+      Arcade - Rampage - Miscellaneous_65: -1789972432
+      Arcade - Rampage - Miscellaneous_12: 1182769991
+      Arcade - Rampage - Miscellaneous_101: 160974454
+      Arcade - Rampage - Miscellaneous_27: 1104720523
+      Arcade - Rampage - Miscellaneous_171: 1486575054
+      Arcade - Rampage - Miscellaneous_28: -1605876138
+      Arcade - Rampage - Miscellaneous_64: -1421344059
+      Arcade - Rampage - Miscellaneous_85: -390335652
+      Arcade - Rampage - Miscellaneous_67: -393774640
+      Arcade - Rampage - Miscellaneous_210: -717332161
+      Arcade - Rampage - Miscellaneous_163: 1969335522
+      Arcade - Rampage - Miscellaneous_90: -150922116
+      Arcade - Rampage - Miscellaneous_143: 169580501
+      Arcade - Rampage - Miscellaneous_26: -912493562
+      Arcade - Rampage - Miscellaneous_139: -408497378
+      Arcade - Rampage - Miscellaneous_35: 1311691100
+      Arcade - Rampage - Miscellaneous_122: 1671114893
+      Arcade - Rampage - Miscellaneous_7: 1458659211
+      Arcade - Rampage - Miscellaneous_195: -526987927
+      Arcade - Rampage - Miscellaneous_144: 2010073321
+      Arcade - Rampage - Miscellaneous_117: -553162591
+      Arcade - Rampage - Miscellaneous_72: 1863468009
+      Arcade - Rampage - Miscellaneous_59: -1872698766
+      Arcade - Rampage - Miscellaneous_197: -1634049303
+      Arcade - Rampage - Miscellaneous_110: 510299075
+      Arcade - Rampage - Miscellaneous_132: 1213568974
+      Arcade - Rampage - Miscellaneous_49: -1543501910
+      Arcade - Rampage - Miscellaneous_52: -1938803815
+      Arcade - Rampage - Miscellaneous_202: -1020514417
+      Arcade - Rampage - Miscellaneous_16: 113035940
+      Arcade - Rampage - Miscellaneous_128: -1853174838
+      Arcade - Rampage - Miscellaneous_203: 1075162321
+      Arcade - Rampage - Miscellaneous_146: -834485382
+      Arcade - Rampage - Miscellaneous_8: 232855317
+      Arcade - Rampage - Miscellaneous_113: -192418789
+      Arcade - Rampage - Miscellaneous_61: -1144563611
+      Arcade - Rampage - Miscellaneous_120: -1493971866
+      Arcade - Rampage - Miscellaneous_97: -194860726
+      Arcade - Rampage - Miscellaneous_32: -317603085
+      Arcade - Rampage - Miscellaneous_176: 188816103
+      Arcade - Rampage - Miscellaneous_13: 1065487197
+      Arcade - Rampage - Miscellaneous_76: 1003301654
+      Arcade - Rampage - Miscellaneous_104: -847243692
+      Arcade - Rampage - Miscellaneous_38: 85579612
+      Arcade - Rampage - Miscellaneous_37: 777991992
+      Arcade - Rampage - Miscellaneous_75: -1463241629
+      Arcade - Rampage - Miscellaneous_142: -1702720228
+      Arcade - Rampage - Miscellaneous_212: 561939482
+      Arcade - Rampage - Miscellaneous_70: -307672821
+      Arcade - Rampage - Miscellaneous_186: 174236164
+      Arcade - Rampage - Miscellaneous_162: -167353732
+      Arcade - Rampage - Miscellaneous_165: 50872596
+      Arcade - Rampage - Miscellaneous_175: 1283935944
+      Arcade - Rampage - Miscellaneous_81: -342783882
+      Arcade - Rampage - Miscellaneous_55: -1819018482
+      Arcade - Rampage - Miscellaneous_24: 813575786
+      Arcade - Rampage - Miscellaneous_177: 796100483
+      Arcade - Rampage - Miscellaneous_4: -583589892
+      Arcade - Rampage - Miscellaneous_50: -1477638580
+      Arcade - Rampage - Miscellaneous_131: 2055488530
+      Arcade - Rampage - Miscellaneous_193: -552251286
+      Arcade - Rampage - Miscellaneous_166: 468675159
+      Arcade - Rampage - Miscellaneous_141: 919868804
+      Arcade - Rampage - Miscellaneous_161: -608209753
+      Arcade - Rampage - Miscellaneous_200: -1721720615
+      Arcade - Rampage - Miscellaneous_39: -454426022
+      Arcade - Rampage - Miscellaneous_92: -1358078279
+      Arcade - Rampage - Miscellaneous_160: -1372550381
+      Arcade - Rampage - Miscellaneous_66: 277397794
+      Arcade - Rampage - Miscellaneous_174: -1915408794
+      Arcade - Rampage - Miscellaneous_137: -2130704792
+      Arcade - Rampage - Miscellaneous_107: 347294027
+      Arcade - Rampage - Miscellaneous_79: 1601300545
+      Arcade - Rampage - Miscellaneous_74: 1925316036
+      Arcade - Rampage - Miscellaneous_189: -735446914
+      Arcade - Rampage - Miscellaneous_172: 1256245054
+      Arcade - Rampage - Miscellaneous_95: 1157950620
+      Arcade - Rampage - Miscellaneous_93: 321048453
+      Arcade - Rampage - Miscellaneous_45: 740917332
+      Arcade - Rampage - Miscellaneous_134: 253230583
+      Arcade - Rampage - Miscellaneous_109: 235456422
+      Arcade - Rampage - Miscellaneous_69: 977495326
+      Arcade - Rampage - Miscellaneous_136: -858135705
+      Arcade - Rampage - Miscellaneous_53: 1922095131
+      Arcade - Rampage - Miscellaneous_156: -1690688621
+      Arcade - Rampage - Miscellaneous_80: -889940762
+      Arcade - Rampage - Miscellaneous_121: -1149358662
+      Arcade - Rampage - Miscellaneous_34: -1251478842
+      Arcade - Rampage - Miscellaneous_43: 1748431288
+      Arcade - Rampage - Miscellaneous_102: -1665028391
+      Arcade - Rampage - Miscellaneous_54: 1481041290
+      Arcade - Rampage - Miscellaneous_17: 1317542401
+      Arcade - Rampage - Miscellaneous_42: -1051739971
+      Arcade - Rampage - Miscellaneous_14: 1265710980
+      Arcade - Rampage - Miscellaneous_204: 2137971417
+      Arcade - Rampage - Miscellaneous_111: -1043624387
+      Arcade - Rampage - Miscellaneous_198: 741856565
+      Arcade - Rampage - Miscellaneous_89: 518335604
+      Arcade - Rampage - Miscellaneous_25: 12963859
+      Arcade - Rampage - Miscellaneous_106: -70317686
+      Arcade - Rampage - Miscellaneous_183: -876307230
+      Arcade - Rampage - Miscellaneous_126: -614192018
+      Arcade - Rampage - Miscellaneous_29: -262663031
+      Arcade - Rampage - Miscellaneous_170: 102859804
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
