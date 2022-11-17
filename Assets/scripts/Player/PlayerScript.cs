@@ -1,7 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using System.Collections.Specialized;
-using UnityEditor.SceneManagement;
+using UnityEngine.SceneManagement;
 using UnityEngine;
 using UnityEngine.VFX;
 
@@ -21,11 +21,10 @@ namespace Player
 
         public bool jumpFlag, jumpButtonPressed, jumpButtonReleased;
         public bool shootButtonPressed, shootButtonReleased;
-        public bool crouchButtonPressed, crouchButtonReleased;
         public bool upButtonPressed, downButtonPressed;
         public bool leftButtonPressed, rightButtonPressed;
 
-        public float fall = 0.2f;
+        public float fall = 10f;
         public float jumpGravity = 0.6f;
         public float initialJumpVel = 10f;
         public float xv, yv;
@@ -33,15 +32,9 @@ namespace Player
         Dir lastDir;
         public Dir currentDir;
 
-        public GameObject lanceWeapon;
-
-
         public float runSpeed = 6;
 
-        
-
         LevelManager lm;
-
 
         // variables holding the different player states
         public StandingState standingState;
@@ -50,6 +43,8 @@ namespace Player
 
         public StateMachine sm;
 
+        [SerializeField] private MobileButton button;
+        [SerializeField] private MobileJoystick joystick;
 
         private void Awake()
         {
@@ -101,7 +96,9 @@ namespace Player
 
             // Press R to reset the player's position
             DebugPlayer();
+            //isGrounded();
 
+          
         }
 
         void FixedUpdate()
@@ -116,20 +113,7 @@ namespace Player
             rb.velocity = new Vector2(xv, yv);
         }
 
-        public bool isGrounded()
-        {
-            Vector2 position = transform.position;
-            Vector2 direction = Vector2.down;
-            float distance = 1.0f;
-
-            RaycastHit2D hit = Physics2D.Raycast(position, direction, distance, platformLayerMask);
-            if (hit.collider != null)
-            {
-                return true;
-            }
-
-            return false;
-        }
+       
 
         public void CheckForLand()
         {
@@ -163,6 +147,7 @@ namespace Player
 
         public void CheckForStand()
         {
+            return;
             if (onPlatform == true)
             {
 
@@ -170,7 +155,10 @@ namespace Player
                 {
                     if (Input.GetKey("right") == false) // key held down
                     {
-                        sm.ChangeState(standingState);
+                        if (Input.GetKey("down") == false)
+                        {
+                            sm.ChangeState(standingState);
+                        }
                     }
                 }
 
@@ -180,37 +168,40 @@ namespace Player
             if (currentDir != lastDir)
             {
                 // player has changed direction
-                sm.ChangeState(standingState);
+                //sm.ChangeState(standingState);
             }
         }
 
 
         public void SetWalkState()
         {
-            if(Input.GetKey("left") == true )
+            if (onPlatform)
             {
-                sm.ChangeState(walkingState);
-            }
+                if (joystick.x > 0.1f)
+                {
+                    sm.ChangeState(walkingState);
+                }
 
-            if (Input.GetKey("right") == true)
-            {
-                sm.ChangeState(walkingState);
+                if (joystick.x < -0.1f)
+                {
+                    sm.ChangeState(walkingState);
+                }
             }
         }
 
         public void SetMoveDirectionAndVelocity()
         {
-            if (Input.GetKey("left") == true)
+            if (joystick.x < -0.1f)
             {
                 currentDir = Dir.Left;
                 xv = -runSpeed;
-                gameObject.transform.localScale = new Vector3(-5, 5, 1);
+                gameObject.transform.localScale = new Vector3(-3, 3, 1);
             }
-            else if (Input.GetKey("right") == true)
+            else if (joystick.x > 0.1f)
             {
                 currentDir = Dir.Right;
                 xv = runSpeed;
-                gameObject.transform.localScale = new Vector3(5, 5, 1);
+                gameObject.transform.localScale = new Vector3(3, 3, 1);
             }
             else
             {
@@ -220,7 +211,7 @@ namespace Player
 
         public void SetJumpState()
         {
-            if (Input.GetKey("space") == true)
+            if (Input.GetKey("space") == true || button.isPressing)
             {
                 if (!onPlatform)
                 {
@@ -229,20 +220,9 @@ namespace Player
                 else
                 {
                     sm.ChangeState(jumpingState);
-                    yv = initialJumpVel;
+                    yv = 10f;
+                    //yv = initialJumpVel;
                 }
-            }
-        }
-
-        public void SetFallState()
-        {
-            if (!onPlatform)
-            {
-                yv -= fall * Time.deltaTime;
-            }
-            else
-            {
-                yv = 0;
             }
         }
 
@@ -273,14 +253,6 @@ namespace Player
             {
                 jumpButtonPressed= false;
                 jumpButtonReleased= true;
-            }
-            if (Input.GetKey(KeyCode.DownArrow))
-            {
-                crouchButtonPressed = true;
-            }
-            else
-            {
-                crouchButtonPressed = false;
             }
 
             if (Input.GetKey(KeyCode.LeftControl) && (shootButtonReleased == true))
@@ -323,6 +295,28 @@ namespace Player
             else
             {
                 downButtonPressed = false;
+            }
+
+        }
+
+        public void DoFall()
+        {
+            if (!onPlatform)
+            {
+                if( yv > -4 )
+                    yv = -fall;
+            }
+            else
+            {
+                yv = 0;
+            }
+        }
+
+        public void DoJump()
+        {
+            if (yv > -5)
+            {
+                yv -= 0.6f; 
             }
 
         }

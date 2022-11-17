@@ -38,6 +38,12 @@ TagManager:
   - 
   - 
   m_SortingLayers:
+  - name: Buildings
+    uniqueID: 3429857945
+    locked: 0
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Player
+    uniqueID: 1412793811
     locked: 0
