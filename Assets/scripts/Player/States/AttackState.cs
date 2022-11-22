@@ -1,24 +1,22 @@
-
 using UnityEngine;
 namespace Player
 {
-    public class StandingState : State
+    public class AttackState : State
     {
-        // constructor
-        public StandingState(PlayerScript player, StateMachine sm) : base(player, sm) { }
+        public AttackState(PlayerScript player, StateMachine sm) : base(player, sm) { }
 
         public override void Enter()
         {
             base.Enter();
-            player.anim.Play("Idle", 0, 0);
-            player.xv = player.yv = 0;
+            player.anim.Play("Attack", 0, 0);
+            //player.xv = player.yv = 0;
         }
 
         public override void Exit()
         {
             base.Exit();
 
-            //player.anim.SetBool("stand", false );
+            //player.anim.SetBool("run", false);
         }
 
         public override void HandleInput()
@@ -29,10 +27,11 @@ namespace Player
         public override void LogicUpdate()
         {
             base.LogicUpdate();
+
             player.SetWalkState();
-            player.DoFall();
+            player.CheckForStand();
             player.SetJumpState();
-            Player.SetAttackState();
+
         }
 
         public override void PhysicsUpdate()

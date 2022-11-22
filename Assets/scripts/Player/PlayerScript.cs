@@ -40,10 +40,12 @@ namespace Player
         public StandingState standingState;
         public WalkingState walkingState;
         public JumpingState jumpingState;
+        public AttackState attackState;
 
         public StateMachine sm;
 
-        [SerializeField] private MobileButton button;
+        [SerializeField] private MobileButton jumpButton;
+        [SerializeField] private MobileButton attackButton;
         [SerializeField] private MobileJoystick joystick;
 
         private void Awake()
@@ -67,6 +69,7 @@ namespace Player
             standingState = new StandingState(this, sm);
             walkingState = new WalkingState(this, sm);
             jumpingState = new JumpingState(this, sm);
+            attackState = new AttackState(this, sm);
 
             // initialise the statemachine with the default state
             sm.Init(standingState);
@@ -147,18 +150,15 @@ namespace Player
 
         public void CheckForStand()
         {
-            return;
+            
             if (onPlatform == true)
             {
 
-                if (Input.GetKey("left") == false) // key held down
+                if (joystick.x == 0f) // key held down
                 {
-                    if (Input.GetKey("right") == false) // key held down
+                    if (joystick.y == 0f) // joystick moved
                     {
-                        if (Input.GetKey("down") == false)
-                        {
-                            sm.ChangeState(standingState);
-                        }
+                        sm.ChangeState(standingState);
                     }
                 }
 
@@ -211,7 +211,7 @@ namespace Player
 
         public void SetJumpState()
         {
-            if (Input.GetKey("space") == true || button.isPressing)
+            if (Input.GetKey("space") == true || jumpButton.isPressing)
             {
                 if (!onPlatform)
                 {
@@ -222,6 +222,38 @@ namespace Player
                     sm.ChangeState(jumpingState);
                     yv = 10f;
                     //yv = initialJumpVel;
+                }
+            }
+        }
+
+        public void SetJumpsState()
+        {
+            if (Input.GetKey("space") == true || jumpButton.isPressing)
+            {
+                if (!onPlatform)
+                {
+                    return;
+                }
+                else
+                {
+                    sm.ChangeState(jumpingState);
+                    yv = 10f;
+                    //yv = initialJumpVel;
+                }
+            }
+        }
+
+        public void SetAttackState()
+        {
+            if (attackButton.isPressing)
+            {
+                if (!onPlatform)
+                {
+                    return;
+                }
+                else
+                {
+                    sm.ChangeState(attackState);
                 }
             }
         }

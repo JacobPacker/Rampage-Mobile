@@ -9,7 +9,7 @@ namespace Player
         public override void Enter()
         {
             base.Enter();
-            //player.anim.Play("arthur_run", 0, 0);
+            player.anim.Play("Walk", 0, 0);
             //player.xv = player.yv = 0;
         }
 
@@ -32,6 +32,7 @@ namespace Player
             player.SetMoveDirectionAndVelocity();
             player.CheckForStand();
             player.SetJumpState();
+            Player.SetAttackState();
 
         }
 
