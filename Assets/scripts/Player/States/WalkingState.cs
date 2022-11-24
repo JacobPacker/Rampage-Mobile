@@ -32,7 +32,8 @@ namespace Player
             player.SetMoveDirectionAndVelocity();
             player.CheckForStand();
             player.SetJumpState();
-            Player.SetAttackState();
+            player.SetAttackState();
+            player.SetAttackUpState();
 
         }
 

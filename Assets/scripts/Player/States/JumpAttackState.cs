@@ -1,14 +1,14 @@
 using UnityEngine;
 namespace Player
 {
-    public class AttackState : State
+    public class JumpAttackState : State
     {
-        public AttackState(PlayerScript player, StateMachine sm) : base(player, sm) { }
+        public JumpAttackState(PlayerScript player, StateMachine sm) : base(player, sm) { }
 
         public override void Enter()
         {
             base.Enter();
-            player.anim.Play("Attack", 0, 0);
+            player.anim.Play("JumpAttack", 0, 0);
             //player.xv = player.yv = 0;
         }
 
@@ -30,11 +30,13 @@ namespace Player
 
             //player.CheckForStand();
 
+
         }
 
         public override void PhysicsUpdate()
         {
             base.PhysicsUpdate();
+            player.CheckForLand();
         }
     }
 }

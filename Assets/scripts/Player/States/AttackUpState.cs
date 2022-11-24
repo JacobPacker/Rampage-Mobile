@@ -1,14 +1,14 @@
 using UnityEngine;
 namespace Player
 {
-    public class AttackState : State
+    public class AttackUpState : State
     {
-        public AttackState(PlayerScript player, StateMachine sm) : base(player, sm) { }
+        public AttackUpState(PlayerScript player, StateMachine sm) : base(player, sm) { }
 
         public override void Enter()
         {
             base.Enter();
-            player.anim.Play("Attack", 0, 0);
+            player.anim.Play("AttackUp", 0, 0);
             //player.xv = player.yv = 0;
         }
 

@@ -32,7 +32,8 @@ namespace Player
             player.SetWalkState();
             player.DoFall();
             player.SetJumpState();
-            Player.SetAttackState();
+            player.SetAttackState();
+            player.SetAttackUpState();
         }
 
         public override void PhysicsUpdate()

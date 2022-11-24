@@ -41,6 +41,9 @@ namespace Player
         public WalkingState walkingState;
         public JumpingState jumpingState;
         public AttackState attackState;
+        public AttackUpState attackUpState;
+        public JumpAttackState jumpAttackState;
+        public JumpAttackUpState jumpAttackUpState;
 
         public StateMachine sm;
 
@@ -52,9 +55,6 @@ namespace Player
         {
             sh = gameObject.AddComponent<SpriteHelper>();
         }
-
-
-
 
         // Start is called before the first frame update
         void Start()
@@ -70,13 +70,15 @@ namespace Player
             walkingState = new WalkingState(this, sm);
             jumpingState = new JumpingState(this, sm);
             attackState = new AttackState(this, sm);
+            attackUpState = new AttackUpState(this, sm);
+            jumpAttackState = new JumpAttackState(this, sm);
+            jumpAttackUpState = new JumpAttackUpState(this, sm);
 
             // initialise the statemachine with the default state
             sm.Init(standingState);
 
             
             sh.SetSpriteXDirection(Dir.Right);
-
 
         }
 
@@ -177,14 +179,17 @@ namespace Player
         {
             if (onPlatform)
             {
-                if (joystick.x > 0.1f)
+                if (!attackButton.isPressing)
                 {
-                    sm.ChangeState(walkingState);
-                }
+                    if (joystick.x > 0.1f)
+                    {
+                        sm.ChangeState(walkingState);
+                    }
 
-                if (joystick.x < -0.1f)
-                {
-                    sm.ChangeState(walkingState);
+                    if (joystick.x < -0.1f)
+                    {
+                        sm.ChangeState(walkingState);
+                    }
                 }
             }
         }
@@ -254,6 +259,51 @@ namespace Player
                 else
                 {
                     sm.ChangeState(attackState);
+                }
+            }
+        }
+
+        public void SetAttackUpState()
+        {
+            if(attackButton.isPressing && joystick.y > 0.5f)
+            {
+                if (!onPlatform)
+                {
+                    return;
+                }
+                else
+                {
+                    sm.ChangeState(attackUpState);
+                }
+            }
+        }
+
+        public void SetJumpAttackState()
+        {
+            if (attackButton.isPressing)
+            {
+                if (!onPlatform)
+                {
+                    sm.ChangeState(jumpAttackState);
+                }
+                else
+                {
+                    return ;
+                }
+            }
+        }
+
+        public void SetJumpAttackUpState()
+        {
+            if (attackButton.isPressing && joystick.y > 0.5f)
+            {
+                if (!onPlatform)
+                {
+                    sm.ChangeState(jumpAttackUpState);
+                }
+                else
+                {
+                    return;
                 }
             }
         }
@@ -365,6 +415,13 @@ namespace Player
                 xv = yv = 0;
             }
 
+        }
+
+
+        // executed from attack anim event
+        public void ChangeStateToStand()
+        {
+            sm.ChangeState(standingState);
         }
 
     }

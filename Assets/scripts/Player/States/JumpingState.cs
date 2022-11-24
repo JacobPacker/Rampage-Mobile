@@ -12,7 +12,7 @@ namespace Player
             player.anim.Play("Jump", 0, 0);
             //player.xv = player.yv = 0;
 
-            Debug.Log("entering jump state");
+            //Debug.Log("entering jump state");
             player.yv = 10f;
 
             
@@ -33,7 +33,8 @@ namespace Player
         public override void LogicUpdate()
         {
             base.LogicUpdate();
-
+            player.SetJumpAttackState();
+            player.SetJumpAttackUpState();
 
 
         }

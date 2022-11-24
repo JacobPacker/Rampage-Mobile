@@ -35,7 +35,7 @@ public class MobileJoystick : MonoBehaviour, IPointerUpHandler, IDragHandler, IP
         Vector2 inputVector = CalculateMovementInput(offset);
         OnMove?.Invoke(inputVector);
 
-        Debug.Log(offset);
+        //Debug.Log(offset);
     }
 
     private Vector2 CalculateMovementInput(Vector2 offset)

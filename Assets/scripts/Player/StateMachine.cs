@@ -17,7 +17,7 @@ namespace Player
 
         public void ChangeState(State newState)
         {
-            Debug.Log("Changing state to " + newState);
+            //Debug.Log("Changing state to " + newState);
             CurrentState.Exit();
 
             LastState = CurrentState;
